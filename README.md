@@ -1,5 +1,5 @@
 # 👽 About Me:
-🔭 Now, i'm working with Python with focus on data analysis and machine learning - Trabalho em projetos pessoais com Python focando em análise de dados e aprendizado de máquina<br><br>🌱 I’m currently learning back-end with focus on web development - Atualmente estou aprendendo back-end com foco em desenvolvimento web<br><br>😄 Pronouns: He / him - Ele/ Dele
+🔭 Now, i'm working with Python with focus on data analysis and machine learning - Trabalho em projetos pessoais com Python focando em análise de dados e aprendizado de máquina<br><br>🌱 I’m currently learning back-end with focus on web development - Atualmente estou aprendendo back-end por meio de Python, quero explorar outras linguagens em breve.<br><br>😄 Pronouns: He / him - Ele/ Dele
 
 <div>
   <img allign="right" src="https://cdn.discordapp.com/attachments/927331745815208026/1228930716335865866/giphy_1.gif?ex=662dd5eb&is=661b60eb&hm=fb0a6795087e8cbd1225af91ad25a37fd9bc66e9a12622d28b3a8be7f2cc3f48&" width="240" height="240"/>
